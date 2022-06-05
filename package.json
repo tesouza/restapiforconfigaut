@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tesouza/restapiforconfigaut/issues"
   },
-  "homepage": "https://github.com/tesouza/restapiforconfigaut#readme"
+  "homepage": "https://github.com/tesouza/restapiforconfigaut#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
