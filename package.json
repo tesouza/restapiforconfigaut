@@ -1,12 +1,20 @@
 {
-  "name": "aprendendoreact2",
+  "name": "restapiforconfigaut",
   "version": "1.0.0",
-  "description": "",
+  "description": "Módulo 1 - Config Aut",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tesouza/restapiforconfigaut.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tesouza/restapiforconfigaut/issues"
+  },
+  "homepage": "https://github.com/tesouza/restapiforconfigaut#readme"
 }
